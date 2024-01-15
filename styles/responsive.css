@@ -1,0 +1,13 @@
+@media screen and (max-width:576px) {
+    .header-section{
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .list{
+        flex-direction: column;
+        gap: 10px;
+
+    }
+
+    
+}
